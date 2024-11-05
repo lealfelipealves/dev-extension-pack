@@ -3,7 +3,7 @@
   "displayName": "DevX Extension Pack",
   "publisher": "DevExtensionPack",
   "description": "Some of the most popular (and some I find very useful) web extensions.",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "license": "MIT",
   "icon": "icon.png",
   "repository": {
@@ -41,6 +41,7 @@
     "mkxml.vscode-filesize", 
     "ms-azuretools.vscode-docker", 
     "MS-CEINTL.vscode-language-pack-pt-BR", 
+    "ms-vscode-remote.remote-wsl",
     "ms-vsliveshare.vsliveshare", 
     "natqe.reload", 
     "naumovs.color-highlight", 
