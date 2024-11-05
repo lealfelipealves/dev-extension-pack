@@ -3,7 +3,7 @@
   "displayName": "DevX Extension Pack",
   "publisher": "DevExtensionPack",
   "description": "Some of the most popular (and some I find very useful) web extensions.",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "license": "MIT",
   "icon": "icon.png",
   "repository": {
@@ -36,6 +36,7 @@
     "formulahendry.auto-rename-tag",
     "GitHub.copilot", 
     "github.vscode-github-actions",
+    "jock.svg",
     "lihui.vs-color-picker", 
     "mechatroner.rainbow-csv", 
     "mkxml.vscode-filesize", 
