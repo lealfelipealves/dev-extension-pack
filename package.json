@@ -3,7 +3,7 @@
   "displayName": "DevX Extension Pack",
   "publisher": "DevExtensionPack",
   "description": "Some of the most popular (and some I find very useful) web extensions.",
-  "version": "0.0.7",
+  "version": "0.0.8",
   "license": "MIT",
   "icon": "icon.png",
   "repository": {
